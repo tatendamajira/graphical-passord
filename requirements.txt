@@ -12,7 +12,7 @@ SQLAlchemy==2.0.23
 
 # Mathematical & Scientific Computing
 numpy==1.26.2
-scipy
+scripy
 
 # Security
 bcrypt==4.1.2
