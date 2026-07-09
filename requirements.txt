@@ -1,1 +1,21 @@
+# Graphical Password Authentication System - Requirements
+# Dissertation Project
+# Install: pip install -r requirements.txt
 
+# Web Framework
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Werkzeug==3.0.1
+
+# Database
+SQLAlchemy==2.0.23
+
+# Mathematical & Scientific Computing
+numpy==1.26.2
+scipy==1.11.4
+
+# Security
+bcrypt==4.1.2
+
+# Email Support (Optional)
+# smtplib is built-in, no additional package needed
